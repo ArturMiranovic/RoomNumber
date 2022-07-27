@@ -1,0 +1,6 @@
+C:\Users\Artur\Desktop\Problem\RoomNumber\bin\Debug\RoomNumber.dll
+C:\Users\Artur\Desktop\Problem\RoomNumber\bin\Debug\RoomNumber.pdb
+C:\Users\Artur\Desktop\Problem\RoomNumber\obj\Debug\RoomNumber.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\Problem\RoomNumber\obj\Debug\RoomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Problem\RoomNumber\obj\Debug\RoomNumber.dll
+C:\Users\Artur\Desktop\Problem\RoomNumber\obj\Debug\RoomNumber.pdb
